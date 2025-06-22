@@ -1,0 +1,3 @@
+[submodule "external/fastspeech2_base"]
+	path = external/fastspeech2_base
+	url = https://github.com/ming024/FastSpeech2.git
